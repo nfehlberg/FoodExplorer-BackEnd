@@ -10,7 +10,7 @@
 
 ## 
 
-Bem vindos ao repositório do backend do projeto: FoodExplorer. O projeto FoodExplorer é o desafio final da trilha explorer da RocketSeat, ele consiste no desenvolvimento total de uma aplicação de ponta a ponta com front-end e back-end, utilizando as teconologias aprendidas na trilha Explorer, simulando um restaurante de acordo com o layout disponibilizado no Figma. 
+Bem vindos ao repositório do backend do projeto: FoodExplorer. O projeto FoodExplorer é o desafio final da trilha explorer da [RocketSeat:rocket:](https://www.rocketseat.com.br/), ele consiste no desenvolvimento total de uma aplicação de ponta a ponta com front-end e back-end, utilizando as teconologias aprendidas na trilha Explorer, simulando um restaurante de acordo com o layout disponibilizado no Figma. 
 
 
 [Aqui](https://github.com/nfehlberg/FoodExplorer-FrontEnd) é possível acessar ao [FrontEnd](https://github.com/nfehlberg/FoodExplorer-FrontEnd) da aplicação.
@@ -34,7 +34,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-### Pré-requisitos
+### :construction: Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
